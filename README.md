@@ -3,3 +3,4 @@
 2. MySql 语法的快速指南
 3. MySql 常用搜索语句
 4. python 和 MySql 的交互
+5. 使用 Mysql 过程中遇到的坑
